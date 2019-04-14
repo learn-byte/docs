@@ -1,3 +1,3 @@
-### Welcome to learn-byte.com!  
+# learn-byte.com docs
 
-#### To get started, clone this repo.
+Think something should be added to our docs? Feel free to comment or open pull requests with suggestions!
