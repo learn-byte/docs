@@ -15,11 +15,15 @@ Authorize yourself as an admin collaborator on the course repository that you ju
 
 ![create-invitation](https://raw.githubusercontent.com/learn-byte/docs/master/assets/images/course-invitation.png)
 
+```
+```
 
 Accept Github's request to authorize yourself as an admin collaborator:
 
 ![create-invitation](https://raw.githubusercontent.com/learn-byte/docs/master/assets/images/github-authorization.png)
 
+```
+```
 
 Once your course has been created you can View it on Github where you can then clone the course to your local computer and start building your course!
 
