@@ -1,6 +1,6 @@
 # Creating a New Course
 
-### Before making a new course make sure you created a learn-byte account and logged in successfully. 
+### Before making a new course make sure you have created a learn-byte account and logged in successfully. 
 
 From the user page (you can get to it by clicking Login or your username in the upper right hand corner of the website), locate the "Create a Course" sidebar.
 
