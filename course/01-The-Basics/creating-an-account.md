@@ -14,8 +14,10 @@ When the Auth0 login form pops up, login with your Github user account and autho
 
 ![login-form](https://raw.githubusercontent.com/learn-byte/docs/master/assets/images/auth0-login.png)
 
-### Your view when you login to the user page:
+Authorization and authentication is managed by [auth0.com](https://auth0.com/).  At this time only Github accounts can be used to create and manage learn-byte.com courses. The github account will be added as an admin level collaborator on any repositories it creates to host a course.
+
+After authenticating via Auth0 you will be redirected to the user page. From this page you can begin creating new courses and managing them.
 
 ![login-form](https://raw.githubusercontent.com/learn-byte/docs/master/assets/images/user-page.png)
 
-From this page you can begin creating courses and managing them. 
+Learn-Byte user page.
