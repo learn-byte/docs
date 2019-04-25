@@ -2,9 +2,11 @@
 
 ## Welcome to learn-byte.com, a learning platform created by users.
 
-### We are building a platform where useres can add their own learning content. 
+### We are building a platform where users can add their own learning content. 
 
-The content on learn-byte.com is encouraged to be short, brief snippets of learning material that build on each other in succcession. All of the content on learn-byte.com is hosted and created on [github.com](https://github.com). 
+The content on learn-byte.com is encouraged to be short, brief snippets of learning material that build on each other in succcession. All of the content on learn-byte.com is hosted and created on [github.com](https://github.com).
+
+If you know how to use Git then you'll love using learn-byte.com to create and share lessons.
 
 ### To get started creating content on learn-byte.com first create an account
 
