@@ -31,5 +31,6 @@ You will likely want to prefix the names of your files and folders with numbers 
 
 Images can be in any common web file format and are easy to include in markdown. If you follow the above file structure then linking to images can be accomplished like so:
 
-```![alt-text](https://raw.githubusercontent.com/learn-byte/YOUR-REPOSITORY-NAME/master/assets/images/YOUR-IMAGE-NAME.png)
-```
+https://raw.githubusercontent.com/learn-byte/YOUR-REPOSITORY-NAME/master/assets/images/YOUR-IMAGE-NAME.png
+
+Refer to markdown cheatsheet for [instructions on how to link images](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images) in markdown.
