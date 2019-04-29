@@ -4,7 +4,7 @@
 
 If you need to delete a course you can do so by visiting:
 
-https://github.com/learn-byte/your-course-name/settings
+https://github.com/learn-byte/YOUR-COURSE-NAME-HERE/settings
 
 
 Alternatively you can log into your account and visit:
